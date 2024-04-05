@@ -2,7 +2,7 @@ import { useState } from "react";
 
 function TodoList() {
   const [todo, setTodo] = useState([
-    // ["Lars", " ", "2022-05-10"],
+    ["Lars", " ", "2022-05-10"],
     ["Kalle", " ", "2023-10-22"],
     ["Erik", " ", " 2024-03-12"],
   ]);
